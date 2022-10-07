@@ -65,7 +65,7 @@ class PhonebookForm extends Component {
             placeholder="123-45-67"
           />
         </FormLabel>
-        <Button type="submit">Add contact</Button>
+        <Button type="submit"> + Add contact</Button>
       </Form>
     );
   }
